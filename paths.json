@@ -1,13 +1,13 @@
 {
   "mappings": [
-    "/content/aem-boilerplate-xcom/:/",
-    "/content/aem-boilerplate-xcom/configuration:/.helix/config.json",
-    "/content/aem-boilerplate-xcom/headers:/.helix/headers.json",
-    "/content/aem-boilerplate-xcom/metadata:/metadata.json",
-    "/content/aem-boilerplate-xcom/placeholders:/placeholders.json",
-    "/content/aem-boilerplate-xcom.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/2025/38/nimblebison75586/:/",
+    "/content/2025/38/nimblebison75586/configuration:/.helix/config.json",
+    "/content/2025/38/nimblebison75586/headers:/.helix/headers.json",
+    "/content/2025/38/nimblebison75586/metadata:/metadata.json",
+    "/content/2025/38/nimblebison75586/placeholders:/placeholders.json",
+    "/content/2025/38/nimblebison75586.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/aem-boilerplate-xcom/"
+    "/content/2025/38/nimblebison75586/"
   ]
 }
